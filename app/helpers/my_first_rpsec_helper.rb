@@ -1,0 +1,2 @@
+module MyFirstRpsecHelper
+end
